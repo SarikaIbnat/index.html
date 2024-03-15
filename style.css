@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #fbbce7;
+  color: whitesmoke;
+}
+p{
+  font-family: fantasy;
+}
